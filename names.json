@@ -1,0 +1,52 @@
+{
+   "id": {
+      "1": {
+         "id_department": "1",
+         "cv": "NV",
+         "name": "a",
+         "salary_base": 200000,
+         "working_days": 27,
+         "working_performance": 1,
+         "bonus": 1000000,
+         "late_coming_days": 3,
+         "bonus_salary": 1
+      },
+      "4": {
+         "id_department": "2",
+         "cv": "QL",
+         "name": "4",
+         "salary_base": 400000,
+         "working_days": 29,
+         "working_performance": 2,
+         "bonus": 1100000,
+         "late_coming_days": 2,
+         "bonus_salary": 2
+      },
+      "2": {
+         "id_department": "1",
+         "cv": "QL",
+         "name": "2",
+         "salary_base": 300000,
+         "working_days": 30,
+         "working_performance": 1.2,
+         "bonus": 1000000,
+         "late_coming_days": 0,
+         "bonus_salary": 1
+      },
+      "5": {
+         "id_department": "1",
+         "cv": "QL",
+         "name": "5",
+         "salary_base": 300000,
+         "working_days": 25,
+         "working_performance": 0.8,
+         "bonus": 0,
+         "late_coming_days": 0,
+         "bonus_salary": 1
+      }
+   },
+   "department": {
+      "1": 1,
+      "2": 2
+   }
+}
