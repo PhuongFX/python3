@@ -15,7 +15,7 @@
 </p>
 
 
-## Resources
+## `Resources`
 
 [File containing tax information (XML)](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FChung%20chi%20dieu%20kien%2FPYB101x_1.1%2FASM_Resources%2Ftax.xml?alt=media&token=f7a6f73d-9e6d-4807-bb14-efc6875442c7)
 
@@ -50,7 +50,7 @@
 late_comming_days * 20000
 ~~~
 
-## Classes
+## `Classes`
 
 > ### Employee, Manager
 * id: Employee ID
@@ -67,7 +67,7 @@ late_comming_days * 20000
 * bonus_salary: Department bonus
 
 
-## Menu Functions
+## `Menu Functions`
 
 * Display all menu functions
 * Add, edit, and delete employee functions
@@ -141,6 +141,7 @@ It looks like you want me to continue translating the text. Here is the rest of 
 Enter department bonus: 100000
 Created new department...
 Added new employee...
+~~~
 
 > ### "Delete Employee by ID"
 
