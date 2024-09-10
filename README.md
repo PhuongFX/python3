@@ -197,7 +197,7 @@ Editing complete
 ----
 ~~~
 
-
+Here's VN version [^2]
 [^2]: Back.
 
 **Quản lý và tính tiền lương hàng tháng nhân viên trong công ty**
