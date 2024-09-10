@@ -11,7 +11,7 @@
 
 Here's VN version [^2]. Here's ENG version [^1].
 
-[^1]: Back.
+[^2]: Back.
 
 <p align='center'>
   <img src="https://raw.githubusercontent.com/PhuongFX/python3/main/Screenshot%202024-09-05%20095431.jpg"/>
