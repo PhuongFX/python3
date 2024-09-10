@@ -135,6 +135,7 @@ def Thêm_nhân_viên_mới():
         print('Mã nhân viên đã tồn tại')
 # ------------------------------------
 
+    # data = json.load(open('original_file.json'))
     with open('names.json', 'w') as f:
         x = json.dump(x, f, indent=3)
 
